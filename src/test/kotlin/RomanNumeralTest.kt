@@ -1,20 +1,9 @@
 package com.zuhlke.kata.roman_numeral
 
-import org.junit.After
 import org.junit.Assert
-import org.junit.Before
-
 import org.junit.Test
 
 class RomanNumeralTest {
-
-    @Before
-    fun setUp() {
-    }
-
-    @After
-    fun tearDown() {
-    }
 
     @Test
     fun convert_I_1() {
